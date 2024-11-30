@@ -17,8 +17,7 @@ I’m a **Full-Stack Web Developer** passionate about building robust and user-f
 - Exciting and impactful web applications.  
 
 🤔 I’m also exploring:  
-- **DevOps** and **cloud services**.  
-- Building **progressive web applications (PWAs)**.  
+- **DevOps** and **cloud services**.    
 
 💬 Ask me about:  
 - **JavaScript**, **PHP**, **React**, **Vue.js**, **Laravel**, **WordPress**, and **web development best practices**.  
@@ -26,7 +25,6 @@ I’m a **Full-Stack Web Developer** passionate about building robust and user-f
 📫 How to reach me:  
 - Email: [shafiqullah715@gmail.com](mailto:shafiqullah715@gmail.com)  
 - LinkedIn: [www.linkedin.com/in/shafiqtanim](https://www.linkedin.com/in/shafiqtanim)  
-- GitHub: [github.com/ShafiqTanim](https://github.com/ShafiqTanim)  
 
 ---
 
