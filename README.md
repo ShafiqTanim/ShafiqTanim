@@ -31,10 +31,10 @@ I’m a **Full-Stack Web Developer** passionate about building robust and user-f
 ### 🛠️ Tech Stack  
 
 #### **Languages**  
-- HTML, CSS, JavaScript, PHP  
+- JavaScript, PHP  
 
 #### **Frameworks & Libraries**  
-- Laravel, React, Vue.js, Bootstrap, jQuery  
+- Laravel, React, Vue.js, Bootstrap, jQuery, Wordpress
 
 #### **Databases**  
 - MySQL 
